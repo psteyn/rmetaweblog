@@ -5,15 +5,14 @@ A ruby class for interacting with the MetaWebLog API used by many blogging syste
 
 
 Installing:
-===========
+-----------
 
 gem install rmetaweblog
 
 
-Full example here:
-==================
+Full example
+------------
 
-#require the Class
 
 ```ruby
 require 'rmetaweblog'
