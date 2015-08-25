@@ -2,7 +2,7 @@ rmetaweblog
 ===========
 
 A ruby class for interacting with the MetaWebLog API used by many blogging systems.
-
+https://rubygems.org/gems/rmetaweblog/versions/1.0
 
 Installing:
 -----------
